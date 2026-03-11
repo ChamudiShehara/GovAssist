@@ -1,0 +1,122 @@
+title,votes,priority,recency_days,status,urgency_score
+"Road is completely damaged and vehicles cannot pass",15,HIGH,2,PENDING,0.95
+"Hospital emergency ward overcrowded",12,HIGH,1,PENDING,0.93
+"No water supply for three days",10,HIGH,3,PENDING,0.90
+"Transformer exploded near residential area",14,HIGH,1,PENDING,0.94
+"Illegal drugs sold near school",11,HIGH,2,PENDING,0.91
+"Teacher not coming to school regularly",8,MEDIUM,5,PENDING,0.65
+"Garbage not collected for two weeks",6,MEDIUM,7,PENDING,0.60
+"Bus service not operating on time",5,MEDIUM,4,PENDING,0.58
+"No doctors available in clinic",9,HIGH,3,PENDING,0.88
+"Water pipe leaking on the road",7,MEDIUM,6,PENDING,0.62
+"Traffic lights not working at junction",4,MEDIUM,8,IN_PROGRESS,0.45
+"Dirty water coming from taps",8,HIGH,4,PENDING,0.85
+"Power cut every evening",6,MEDIUM,5,PENDING,0.60
+"Broken bridge causing accidents",13,HIGH,2,PENDING,0.92
+"Illegal parking blocking the main road",3,LOW,10,PENDING,0.30
+"Factory releasing smoke causing breathing issues",7,HIGH,3,PENDING,0.82
+"Garbage burning creating air pollution",5,MEDIUM,6,IN_PROGRESS,0.48
+"University registration issues",4,MEDIUM,12,PENDING,0.40
+"Low water pressure in houses",3,LOW,15,PENDING,0.25
+"Street fight causing injuries",10,HIGH,1,PENDING,0.92
+"House break-in during night",9,HIGH,2,PENDING,0.89
+"Exam timetable not released on time",2,LOW,20,PENDING,0.20
+"Electricity bill is incorrect",2,LOW,18,PENDING,0.18
+"Bus route cancelled without notice",4,MEDIUM,9,PENDING,0.42
+"Pothole on main road causing accidents",6,HIGH,5,PENDING,0.78
+"Medicine shortage in hospital",11,HIGH,2,PENDING,0.91
+"No classrooms available for students",3,MEDIUM,14,PENDING,0.35
+"Drain blocked with garbage causing flooding",8,HIGH,3,PENDING,0.84
+"Ambulance not responding to emergency",13,HIGH,1,PENDING,0.96
+"Road is completely damaged and vehicles cannot pass",15,HIGH,2,RESOLVED,0.20
+"Hospital emergency ward overcrowded",12,HIGH,1,RESOLVED,0.15
+"No water supply for three days",10,HIGH,3,RESOLVED,0.18
+"Power outage in the neighborhood",14,HIGH,1,PENDING,0.93
+"Broken traffic signal causing confusion",7,MEDIUM,3,PENDING,0.75
+"Street lights out on the main road",5,LOW,10,PENDING,0.50
+"Water leakage from the pipeline",12,HIGH,2,PENDING,0.85
+"Illegal construction near the park",9,MEDIUM,7,PENDING,0.70
+"Public toilet flooded with waste",6,LOW,15,PENDING,0.45
+"Heavy traffic jam during peak hours",11,HIGH,3,PENDING,0.90
+"Illegal parking near school entrance",4,MEDIUM,5,PENDING,0.55
+"Flooding in residential area after rain",8,HIGH,6,PENDING,0.80
+"Garbage pile up in front of apartment building",10,LOW,8,PENDING,0.60
+"Road construction delayed for months",7,MEDIUM,4,PENDING,0.65
+"Street food vendors blocking the sidewalk",5,LOW,20,PENDING,0.40
+"Electric transformer sparking near neighborhood",13,HIGH,2,PENDING,0.92
+"Noise pollution from nearby nightclub",9,MEDIUM,7,IN_PROGRESS,0.68
+"Park bench broken and needs repair",3,LOW,30,PENDING,0.30
+"Broken fence near the playground",6,MEDIUM,10,PENDING,0.50
+"Unauthorized garbage dumping in vacant lot",10,HIGH,3,PENDING,0.85
+"Missing manhole cover causing safety hazard",12,HIGH,1,PENDING,0.93
+"Tree branches blocking the road",8,MEDIUM,12,PENDING,0.75
+"Uneven pavement causing trip hazard",6,LOW,18,PENDING,0.40
+"Public garbage bins overflowing",7,MEDIUM,14,PENDING,0.60
+"Noise from late-night construction",9,HIGH,2,PENDING,0.80
+"Missing street sign at intersection",4,LOW,25,PENDING,0.35
+"Water contamination due to pipeline rupture",11,HIGH,3,PENDING,0.90
+"Leaking sewage system in residential area",8,HIGH,4,PENDING,0.85
+"Illegal vendor blocking pedestrian walkway",3,LOW,28,PENDING,0.20
+"Electric pole leaning dangerously",12,HIGH,5,PENDING,0.88
+"Cracked sidewalk near school",7,MEDIUM,17,PENDING,0.65
+"Power surge causing damage to appliances",10,HIGH,2,PENDING,0.92
+"Flooding in the basement of the building",8,MEDIUM,9,PENDING,0.70
+"Public park bench missing",5,LOW,35,PENDING,0.25
+"Streetlight pole fallen down",12,HIGH,3,IN_PROGRESS,0.87
+"Damaged public bus stop shelter",9,MEDIUM,6,PENDING,0.65
+"Rats spotted near waste disposal area",7,LOW,20,PENDING,0.50
+"Frequent power cuts during the evening",6,MEDIUM,13,PENDING,0.60
+"Heavy snow causing traffic disruptions",15,HIGH,2,PENDING,0.95
+"Illegal construction on public land",10,HIGH,5,PENDING,0.89
+"Traffic accident causing major roadblock",12,HIGH,1,PENDING,0.92
+"Unauthorized billboard blocking view",4,LOW,18,PENDING,0.40
+"Pedestrian crossing light malfunctioning",9,MEDIUM,8,PENDING,0.55
+"Overflowing sewer near market",8,HIGH,6,PENDING,0.83
+"Clogged drainage system in the neighborhood",11,HIGH,7,PENDING,0.88
+"Illegal parking near hospital entrance",5,LOW,22,PENDING,0.30
+"Damaged fence around school grounds",6,MEDIUM,12,PENDING,0.50
+"Power failure in the area",13,HIGH,3,PENDING,0.92
+"Broken streetlight near bus stop",7,MEDIUM,10,PENDING,0.60
+"Street potholes causing traffic disruption",5,LOW,15,PENDING,0.45
+"Unauthorized dumping of construction waste",11,HIGH,5,PENDING,0.88
+"Broken water supply pipeline",9,HIGH,2,PENDING,0.85
+"Traffic signal not working at main junction",4,LOW,20,PENDING,0.35
+"Garbage not collected for a week",10,MEDIUM,8,PENDING,0.70
+"Street flooding after heavy rainfall",8,HIGH,4,PENDING,0.80
+"Cracked roads causing accidents",6,MEDIUM,14,PENDING,0.50
+"Illegal parking obstructing fire hydrants",5,LOW,18,PENDING,0.30
+"Street cleaning not done for several days",7,MEDIUM,12,PENDING,0.55
+"Public toilet flooded with waste",3,LOW,25,PENDING,0.20
+"Overflowing drainage causing flooding",12,HIGH,6,PENDING,0.90
+"Electric transformer sparking dangerously",8,HIGH,3,PENDING,0.85
+"Illegal constructions blocking sidewalks",10,MEDIUM,9,PENDING,0.60
+"Garbage burning creating health risks",7,HIGH,7,PENDING,0.75
+"Broken park bench",6,LOW,30,PENDING,0.25
+"Cracked pavement causing trip hazards",5,MEDIUM,16,PENDING,0.45
+"Noise from construction disturbing residents",9,MEDIUM,4,PENDING,0.65
+"Flooding on main street",12,HIGH,1,PENDING,0.92
+"Streetlight malfunctioning in residential area",4,LOW,22,PENDING,0.30
+"Illegal road blockages by vendors",11,HIGH,3,PENDING,0.80
+"Tree branches blocking traffic",8,MEDIUM,13,PENDING,0.55
+"Street garbage bins overflowing",6,LOW,28,PENDING,0.40
+"Water contamination in local wells",12,HIGH,2,PENDING,0.90
+"Uncovered sewage drains on the road",7,MEDIUM,11,PENDING,0.60
+"Broken public benches in park",9,LOW,19,PENDING,0.50
+"Noise from late-night parties",10,MEDIUM,6,PENDING,0.65
+"Road repair works delayed for months",8,HIGH,5,PENDING,0.80
+"Cracked footpath causing injuries",6,LOW,26,PENDING,0.30
+"Power cut every evening",11,HIGH,4,PENDING,0.85
+"Parking violations blocking access",7,MEDIUM,15,PENDING,0.60
+"Damaged road signs",9,LOW,21,PENDING,0.45
+"Frequent water supply interruptions",10,HIGH,3,PENDING,0.88
+"Fallen trees blocking roads",8,MEDIUM,17,PENDING,0.55
+"Noise pollution from factory at night",12,HIGH,2,PENDING,0.92
+"Traffic accidents due to potholes",11,HIGH,1,PENDING,0.90
+"Illegal construction on public land",7,LOW,23,PENDING,0.35
+"Broken sidewalk causing tripping",9,MEDIUM,18,PENDING,0.50
+"Overflowing waste bin near school",8,LOW,29,PENDING,0.40
+"Power failure every morning",5,HIGH,4,PENDING,0.80
+"Traffic congestion during rush hours",10,MEDIUM,12,PENDING,0.65
+"Excessive noise from street vendors",6,LOW,35,PENDING,0.30
+"Construction waste dumped in public space",7,MEDIUM,8,PENDING,0.55
+"Broken sewage pipe causing odors",8,HIGH,6,PENDING,0.85

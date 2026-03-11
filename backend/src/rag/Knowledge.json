@@ -1,0 +1,129 @@
+[
+  {
+    "department": "Transport",
+    "description": "Handles public transport services, road maintenance, traffic control, and vehicle licensing.",
+    "keywords": ["road", "bus", "traffic", "license", "highway", "bridge", "accident", "vehicle", "transport", "pavement", "pothole", "junction"],
+    "synonyms": ["paare", "paara", "traffic jam", "රථ වාහන", "බස්", "පාථ"],
+    "complaintExamples": [
+      "Road is completely damaged and vehicles cannot pass",
+      "Bus service is not operating on time",
+      "Heavy traffic jam every morning",
+      "Illegal parking blocking the main road",
+      "Broken bridge causing accidents",
+      "Pothole on main road causing accidents",
+      "Bus route cancelled without notice",
+      "Traffic lights not working at junction",
+      "Road is flooded and blocked"
+    ]
+  },
+  {
+    "department": "Health",
+    "description": "Responsible for hospitals, clinics, sanitation services, and public health safety.",
+    "keywords": ["hospital", "doctor", "medicine", "clinic", "disease", "emergency", "ward", "patient", "health", "medical", "nurse", "treatment", "ambulance", "pharmacy"],
+    "synonyms": ["rohale", "hospital eka", "doctor kenek naha", "රෝහල", "medical", "hospitalize", "hospitalization"],
+    "complaintExamples": [
+      "Hospital emergency ward overcrowded",
+      "No doctors available in clinic",
+      "Medicine shortage in hospital",
+      "Ambulance not responding to emergency",
+      "Clinic closed during working hours",
+      "Peoples case hospitalize problem",
+      "Hospital hygiene is very poor",
+      "Doctor is not attending patients properly",
+      "No medicine available in government hospital"
+    ]
+  },
+  {
+    "department": "Environment & Public Nuisance",
+    "description": "Handles noise pollution, air pollution, illegal burning, and public nuisance complaints.",
+    "keywords": ["noise", "pollution", "burning", "air", "environment", "nuisance", "smell", "party", "factory", "construction", "dust"],
+    "synonyms": ["noise pollution", "rathri", "night", "late night", "sleep karanna baha", "festival noise"],
+    "complaintExamples": [
+      "Loud noise from party late at night",
+      "Factory releasing smoke causing breathing issues",
+      "Construction noise early in morning",
+      "Burning garbage creating air pollution",
+      "Loud music disturbing residents at night",
+      "Illegal fireworks disturbing the neighborhood"
+    ]
+  },
+  {
+    "department": "Waste Management",
+    "description": "Handles garbage collection, illegal dumping, waste disposal, and sanitation.",
+    "keywords": ["garbage", "waste", "dump", "trash", "bin", "smell", "odor", "littering", "disposal", "recycling", "sewage", "drain"],
+    "synonyms": ["kasala", "kunu", "burn karanawa", "garbage burn", "illegal dumping", "overflowing bin"],
+    "complaintExamples": [
+      "Garbage not collected for two weeks",
+      "Illegal dumping near the river",
+      "Overflowing garbage bin on main street",
+      "Bad smell from waste dump near houses",
+      "People burning garbage creating smoke",
+      "Waste pit causing disease in area",
+      "Drain blocked with garbage causing flooding"
+    ]
+  },
+  {
+    "department": "Education",
+    "description": "Manages schools, universities, teachers, examinations, and student welfare.",
+    "keywords": ["school", "teacher", "exam", "student", "university", "class", "education", "college", "syllabus", "principal", "attendance", "results", "marks", "grades", "textbook", "classroom", "laboratory", "library"],
+    "synonyms": ["pasala", "school eka", "teacher kenek enne naha", "පාසල්", "විභාග"],
+    "complaintExamples": [
+      "Teacher not coming to school regularly",
+      "Exam timetable not released on time",
+      "University registration issues",
+      "No classrooms available for students",
+      "Student safety problems in school",
+      "School building is in very bad condition",
+      "Principal is harassing students",
+      "No laboratory equipment available"
+    ]
+  },
+  {
+    "department": "Police",
+    "description": "Responsible for maintaining law and order, preventing crime, and ensuring public safety.",
+    "keywords": ["crime", "theft", "robbery", "assault", "violence", "police", "accident", "complaint", "drugs", "murder", "fight", "harassment", "break-in", "illegal", "arrest"],
+    "synonyms": ["polis", "law enforcement", "cop", "පොලිසිය"],
+    "complaintExamples": [
+      "House break-in during night",
+      "Street fight causing injuries",
+      "Illegal drugs sold in the area",
+      "Traffic accident with injuries",
+      "Domestic violence in neighborhood",
+      "Theft of vehicle",
+      "Harassment by unknown persons",
+      "Illegal alcohol selling near school"
+    ]
+  },
+  {
+    "department": "Water Supply",
+    "description": "Manages clean water distribution, pipelines, and water supply infrastructure.",
+    "keywords": ["water", "pipe", "leak", "supply", "drinking water", "tap", "pipeline", "contaminated", "pressure", "sewage"],
+    "synonyms": ["watura naha", "pipe eka leak wenawa", "ජල", "water board", "dirty water"],
+    "complaintExamples": [
+      "No water supply for three days",
+      "Water pipe leaking on the road",
+      "Dirty water coming from taps",
+      "Low water pressure in houses",
+      "Broken pipeline near school",
+      "Water contaminated with mud",
+      "Water supply cut without notice",
+      "Tap water smells bad"
+    ]
+  },
+  {
+    "department": "Electricity & Power",
+    "description": "Responsible for electricity generation, distribution, billing and maintenance.",
+    "keywords": ["electricity", "power", "current", "meter", "transformer", "voltage", "electric", "light", "outage", "blackout", "bill", "wire", "pole"],
+    "synonyms": ["current naha", "light naha", "power eka giya", "විදුලි", "power cut"],
+    "complaintExamples": [
+      "No electricity for two days",
+      "Power cut every evening",
+      "Transformer exploded near our area",
+      "Electricity bill is incorrect",
+      "Electric meter not working",
+      "Fallen electric pole on the road",
+      "Dangerous exposed wire near playground",
+      "Voltage fluctuation damaging appliances"
+    ]
+  }
+]
